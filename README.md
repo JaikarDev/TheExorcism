@@ -34,8 +34,7 @@
 
 | Gameplay | Interactive  | Clap Clap |
 |----------|--------|--------------|
-| ![image](https://github.com/user-attachments/assets/d5866041-8a56-45ca-8c14-f40f108d5fb9)![image](https://github.com/user-attachments/assets/84b66385-ad18-4560-91f2-113a77236075) ![image](https://github.com/user-attachments/assets/38eba146-00b2-43ac-9d2b-31102fffee14) ![image](https://github.com/user-attachments/assets/3502c07e-7be9-482a-a10a-0359a8507dd7)![image](https://github.com/user-attachments/assets/9f07b628-fc7f-4e07-8c88-05ef9ab8e521) 
-![image](https://github.com/user-attachments/assets/f27732c1-9625-4a05-a696-bebf1b418bea)
+| ![image](https://github.com/user-attachments/assets/d5866041-8a56-45ca-8c14-f40f108d5fb9)![image](https://github.com/user-attachments/assets/84b66385-ad18-4560-91f2-113a77236075) ![image](https://github.com/user-attachments/assets/38eba146-00b2-43ac-9d2b-31102fffee14) ![image](https://github.com/user-attachments/assets/3502c07e-7be9-482a-a10a-0359a8507dd7) | ![image](https://github.com/user-attachments/assets/9f07b628-fc7f-4e07-8c88-05ef9ab8e521) | ![image](https://github.com/user-attachments/assets/f27732c1-9625-4a05-a696-bebf1b418bea) |
 
 
 
