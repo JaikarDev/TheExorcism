@@ -11,9 +11,8 @@
 - 🔦 **Fusebox Puzzle System** – Power up areas and unlock new paths
 - 💧 **Holy Water Purification** – Mechanic that weakens the spirit
 - 📜 **Map & Guidance System** – In-world map with navigation clues
-- 👹 **AI-Driven Demon Behavior** – Randomized events and timed horror encounters
-- 🔦 **Dynamic Flashlight** – Real-time lighting system
-- ⏳ **Time-Based Challenges** – Puzzle-solving under pressure
+- 🔦 **Dynamic MatchBox** –  At First You Will Get 3 matchsticks to turn on light After Collecting Match Box you Will get 6 matchsticks more 
+- ⏳ **Time-Based Challenges** – With In Time line you have To purify the house so based on that it can Be Good\ Bad\ Normal End 
 
 ---
 
