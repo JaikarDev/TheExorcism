@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|d:\\haunted house escape 2 (2)\\haunted house escape 2\\haunted house escape 2\\assets\\artusplash\\scripts\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\artusplash\\scripts\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\intro script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\intro script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|d:\\haunted house escape 2 (2)\\haunted house escape 2\\haunted house escape 2\\assets\\scripts\\box collider update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box collider update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\devil\\devilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\devil\\devilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\garage quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\garage quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\different ends\\nutral end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\different ends\\nutral end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\key box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\key box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\main menu\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\different ends\\good end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\different ends\\good end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\assets\\scripts\\different ends\\bad end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E801D6-F5CA-2213-051E-0457131F9412}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\different ends\\bad end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logo.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\ArtUSplash\\Scripts\\logo.cs",
+              "RelativeDocumentMoniker": "Assets\\ArtUSplash\\Scripts\\logo.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\ArtUSplash\\Scripts\\logo.cs",
+              "RelativeToolTip": "Assets\\ArtUSplash\\Scripts\\logo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:52:42.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevilAI.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Devil\\DevilAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Devil\\DevilAI.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Devil\\DevilAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Devil\\DevilAI.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAkwOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:43:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Garage quest.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Garage quest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Garage quest.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Garage quest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Garage quest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:30:13.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KEY BOX.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\KEY BOX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KEY BOX.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\KEY BOX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KEY BOX.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:20:35.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Box Collider update.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Box Collider update.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box Collider update.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Box Collider update.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box Collider update.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:01:39.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nutral end.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Nutral end.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DIfferent ends\\Nutral end.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Nutral end.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DIfferent ends\\Nutral end.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:48:24.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bad End.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Bad End.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DIfferent ends\\Bad End.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Bad End.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DIfferent ends\\Bad End.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:40:39.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Good end.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Good end.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DIfferent ends\\Good end.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\DIfferent ends\\Good end.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DIfferent ends\\Good end.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:47:18.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main Menu.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Main menu\\Main Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main menu\\Main Menu.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Main menu\\Main Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main menu\\Main Menu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:40:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intro Script.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Intro Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Intro Script.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\Intro Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Intro Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:52:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestManager.cs",
+              "ToolTip": "D:\\Haunted House Escape 2 (2)\\Haunted House Escape 2\\Haunted House Escape 2\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:31:06.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
